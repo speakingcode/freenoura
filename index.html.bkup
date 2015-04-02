@@ -1,0 +1,137 @@
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="jumbotron">
+        <h1>Free Noura Jackson</h1>
+
+        <p>Please help us raise money to get Noura Jackson out of jail on bond, pay for legal expenses she will incur with her new trial, & to start her life over once she gets out of prison. She has nothing when she gets out of prison. </p>
+        <div style="float:left;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="CJTPGVC5P9VPY">
+<button class="btn btn-primary btn-lg" name="submit" >Donate via Paypal</button>
+</form>
+        </div>
+
+        <div style="float: left; margin-left: 20px;">
+          <a class="btn btn-primary btn-lg"
+             href="#info">Read More</a>
+        </div>
+
+      </div><!-- jumbotron -->
+    </div>
+
+    <div class="row" style="padding-left: 50px; padding-right: 50px;">
+      <div class="col-md-4">
+        <img
+          src="img/1.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      
+      </div>
+
+      <div class="col-md-4">
+        <img
+          src="img/2.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      </div>
+
+      <div class="col-md-4">
+        <img
+          src="img/3.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      </div>
+      
+    </div>
+    <a name="info"></a>
+    <div class="row" style="padding-left: 50px; padding-right: 50px;">
+      <p>
+Noura Grace Jackson was falsely accused and convicted of killing her mother based purely on circumstantial evidence. She has served 10 years in prison so far. The police found no blood or other DNA of  Nouras at the scene. However, there were two other unidentified persons' DNA found at the scene of her mother's death. She also had pristine nails in the pictures the police took of her hands. If someone stabbed someone over 50 times, they should have broken nails and cuts from the force it took to deliver that many wounds.
+      </p>
+      
+        <img
+          src="img/4.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image"
+          align="right">
+         
+      <p>
+      It is highly unlikely that an 18 year old female would have the power to kill someone that brutally. Her mother, Jennifer, had an ex-boyfriend who she fault with regularly. The night before her body was found was her boyfriend's birthday, and he called her that day. Only they know what they talked about. She went on a date that night with another man and was dropped off at home late that night. He could of easily been waiting at her house and saw her being dropped off by another man and became enraged. His alibi was that he was at home alone asleep. His home was within a 1 hour drive of the Jackson house. 
+      </p>
+        <img
+          src="img/5.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image"
+          align="left">
+      <p>
+      The prosecution's withholding of evidence, and a comment from a prosecutor about Jackson's decision not to testify in her own defense at the trial, definitely may be the cause of her being found guilty. An intelligent jury would have seen that she was not guilty and come up with a Not Guilty verdict, based on the weak circumstantial evidence of the case.</p>
+
+        <img
+          src="img/6.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image"
+          align="right">
+
+      <p>The defense rested after the state was done since the burden of proof falls on the prosecution, and the proof was simply not there. Those who viewed the trial and saw all of the evidence were blown away when a Guilty verdict came back from the jury.</p>
+      <p>Anyone that has the time to research can see that the Shelby County DA's Office and prosecutor, now District Attorney, Amy Weirich, has a long history of violating people's constitutional rights in efforts to win a case at any cost. The justice system has been unjust to Noura Jackson. Please help us ensure that she doesn't spend another day behind bars for a crime she DID NOT COMMIT.
+      </p>
+    </div>
+    <div class="row" style="padding-left: 50px; padding-right: 50px;">
+
+
+Noura Jackson has some family and family friends to support her, but more help is needed. People whose homes burn down have more than she does. She is in great need of your help. Any donation you can afford is greatly appreciated. Please encourage you friends and family to donate to help bring JUSTICE to a woman who has no mother, no father, no grandparents to help her. Please share the websites link on you social media accounts to help a just cause.
+
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="CJTPGVC5P9VPY">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</center>
+    </div>
+    <div class="row" style="padding-left: 50px; padding-right: 50px;">
+      <div class="col-md-4">
+        <img
+          src="img/7.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      
+      </div>
+
+      <div class="col-md-4">
+        <img
+          src="img/8.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      </div>
+
+      <div class="col-md-4">
+        <img
+          src="img/9.jpg"
+          class="img-responsive img-rounded"
+          alt="Responsive image">
+      </div>
+      
+    </div>
+  </div>
+</body>
+</html>
